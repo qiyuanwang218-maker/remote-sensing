@@ -71,7 +71,7 @@ cd coco-caption
 
 Our best performing model (checkpoint-1320) is available for download:
 
-**HuggingFace** 🤗: [Coming Soon]
+**HuggingFace** 🤗: https://huggingface.co/qiyuan12138/remote_sensing_caption/tree/main
 
 **Direct Download Links**:
 - Main model: `pytorch_model.bin` (862MB)
